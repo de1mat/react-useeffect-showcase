@@ -1,1 +1,1 @@
-Companion project to the article _useEffect - explained crystal clear_
+Companion project to the article [The last guide to the useEffect Hook you’ll ever need](https://blog.logrocket.com/guide-to-react-useeffect-hook/). Every react developer needs to understand this stuff.
